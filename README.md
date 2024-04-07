@@ -1,9 +1,5 @@
 # Comparing Algorithms: A* vs Dijkstra on the City's Map
 
-This repository contains the code used in the YouTube video titled __"Comparing Algorithms: A* vs Dijkstra, on the city's map"__. The video provides a visual comparison between the A* and Dijkstra algorithms in the context of finding paths on a city map represented as a graph.
-
-[**Watch it here!**](https://youtu.be/oMgfGkFSgI0) (it's in spanish).
-
 ![paragit](https://github.com/santifiorino/maps_pathfinding/assets/94584235/6741cab4-477d-4241-9d0f-8c8b9465b5b6)
 
 ## Introduction
